@@ -4,3 +4,4 @@ This repo contains my contribution towards huge University project, realized for
 
 other contributors:
 - https://github.com/zioloa
+- https://github.com/MajjK
